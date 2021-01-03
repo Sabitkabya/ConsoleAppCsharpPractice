@@ -1,0 +1,10 @@
+D:\Visual Studio\ConsoleAppCsharpPractice\ConsoleAppCsharpPractice\bin\Debug\netcoreapp2.1\ConsoleAppCsharpPractice.deps.json
+D:\Visual Studio\ConsoleAppCsharpPractice\ConsoleAppCsharpPractice\bin\Debug\netcoreapp2.1\ConsoleAppCsharpPractice.runtimeconfig.json
+D:\Visual Studio\ConsoleAppCsharpPractice\ConsoleAppCsharpPractice\bin\Debug\netcoreapp2.1\ConsoleAppCsharpPractice.runtimeconfig.dev.json
+D:\Visual Studio\ConsoleAppCsharpPractice\ConsoleAppCsharpPractice\bin\Debug\netcoreapp2.1\ConsoleAppCsharpPractice.dll
+D:\Visual Studio\ConsoleAppCsharpPractice\ConsoleAppCsharpPractice\bin\Debug\netcoreapp2.1\ConsoleAppCsharpPractice.pdb
+D:\Visual Studio\ConsoleAppCsharpPractice\ConsoleAppCsharpPractice\obj\Debug\netcoreapp2.1\ConsoleAppCsharpPractice.csproj.CoreCompileInputs.cache
+D:\Visual Studio\ConsoleAppCsharpPractice\ConsoleAppCsharpPractice\obj\Debug\netcoreapp2.1\ConsoleAppCsharpPractice.AssemblyInfoInputs.cache
+D:\Visual Studio\ConsoleAppCsharpPractice\ConsoleAppCsharpPractice\obj\Debug\netcoreapp2.1\ConsoleAppCsharpPractice.AssemblyInfo.cs
+D:\Visual Studio\ConsoleAppCsharpPractice\ConsoleAppCsharpPractice\obj\Debug\netcoreapp2.1\ConsoleAppCsharpPractice.dll
+D:\Visual Studio\ConsoleAppCsharpPractice\ConsoleAppCsharpPractice\obj\Debug\netcoreapp2.1\ConsoleAppCsharpPractice.pdb
